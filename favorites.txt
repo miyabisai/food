@@ -1,3 +1,6 @@
 banana
 apple 
 ichigo
+movie a
+movie 2
+movie 3
